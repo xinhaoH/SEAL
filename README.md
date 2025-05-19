@@ -6,7 +6,7 @@ SEAL: Structure and Element Aware Learning Improves Long Structured Document Ret
 </div>
 
 <p align="center">
-<img width="100%" alt="image" src="overview.pdf">    
+<img width="100%" alt="image" src="overview.jpg">    
 </p>
 
 | Split       | Query   | Doc.    | Avg. Words Query | Avg. Words Doc. |
