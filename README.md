@@ -11,6 +11,7 @@ SEAL: Structure and Element Aware Learning Improves Long Structured Document Ret
 
 
 <h1>StructDocRetrieval</h1>
+
 | Split       | Query   | Doc.    | Avg. Words Query | Avg. Words Doc. |
 |-------------|---------|---------|------------------|-----------------|
 | **Train**   | 23,816  | 23,816  | 12.82            | 10,849          |
