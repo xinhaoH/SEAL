@@ -1,11 +1,9 @@
 <div align="center">
 <h1>SEAL</h1>
 <h3>
-SEAL: Structure and Element Aware Learning Improves Long Structured Document Retrieval
+[EMNLP 2025] SEAL: Structure and Element Aware Learning Improves Long Structured Document Retrieval
 <h3>
 </div>
-  
-This is the official repository for our paper, **"SEAL: Structure and Element Aware Learning Improves Long Structured Document Retrieval"**.
   
 <p align="center">
 <img width="100%" alt="image" src="overview.jpg">    
